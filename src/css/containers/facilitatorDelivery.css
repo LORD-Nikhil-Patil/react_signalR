@@ -1,0 +1,64 @@
+.facilitator-screen{
+    position: relative;
+    width:100%;
+    height:100vh; 
+    margin: 10px;
+    padding: 10px;
+}
+
+
+.screens{
+    width:100%;
+    height:100vh;
+    display: inline-flex;
+    align-items: center;
+    padding: 20px;
+}
+
+.screens .carousel {
+    width:100%;
+    height:100vh;
+}
+
+.screens  a {
+    font-size: 50px;
+}
+
+.thumbnail{
+    height: 100px;
+    width: 100%;
+    margin-top: 20px;
+    display: inline-flex;
+    align-items: center;
+    justify-content:center;
+}
+
+.thumbnail a {
+    font-size: 25px;
+}
+
+.thumbnail-carousel{
+    height: 90px;
+    display: inline-flex;
+    align-items: center;
+    flex-direction:row;
+    justify-content:center;
+}
+
+.thumbnail-carousel li{
+     display: flex;
+     height:80px !important;
+     margin: 5px;
+     width: 100px;
+     list-style: none;
+     align-items: center;
+     border: 1px solid black;
+     justify-content:center;
+     font: size 15px;
+    }
+
+.thumbnail-carousel .active{
+  background-color: bisque;
+  border: 1px solid gray;
+}
+

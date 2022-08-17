@@ -1,0 +1,51 @@
+.slide-20 {
+  display: flex;
+  align-items: center;
+  margin: 10px;
+  width: 100%;
+  height: 50vh;
+}
+
+.slide-20 table tbody {
+  padding: 10px !important;
+}
+
+.slide-20 table tbody tr {
+  width: 100%;
+  display: flex !important;
+  flex-direction: row !important;
+}
+
+.slide-20 table tbody tr td{ 
+ width: 50% !important;
+}
+
+.slide-20 table tbody tr :nth-child(1) {
+    height:30%;
+  width: 40%;
+}
+
+.slide-20 table tbody tr :nth-child(2) {
+  width: 40%;
+
+}
+.slide-20 table tbody tr :nth-child(1) :nth-child(3) {
+  width: 100% !important;
+}
+
+.slide-20 table tbody tr :nth-child(1) :nth-child(3) {
+  width: 100%;
+}
+
+.slide-20 table tbody tr :nth-child(2) img {
+    height: 70% !important;
+    width: 100% !important;
+    margin-top: 20% !important;
+}
+
+
+
+@media screen and (orientation:landscape) and
+(min-device-width: 320px) and (max-device-width: 450px) {
+   /* Input Styles */
+}

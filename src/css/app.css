@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+/* generic */
+@import url(./base/animate.css);
+@import url(./base/CheckBoxSwitches.css);
+@import url(./base/custom.css);
+@import url(./base/plugins.css);
+@import url(./base/style-conquer.css);
+@import url(./base/style-non-responsive.css);
+@import url(./base/style-radio.css);
+@import url(./base/style-responsive.css);
+@import url(./base/style.css);
+
+
+@import url(./containers/logIn.css);
+@import url(./containers/navbar.css);
+@import url(./containers/twoStepLogIn.css);
+@import url(./containers/facilitatorDelivery.css);
+@import url(./containers/participantDelivery.css);
+@import url(./slides/second-slide.css);
+/* Themes */
+
+@import url(./base/themes/default.css);
+
+
+
+
+.sidebar_collapse_button{
+    overflow-wrap: break-word;
+    line-height: var(--bs-body-line-height);
+    font-family: 'AkzidenzGroteskPro', sans-serif;
+    list-style: none;
+    box-sizing: border-box;
+    text-shadow: none !important;
+    outline: 0;
+    width:100%;
+    position: relative;
+    border: 0px;
+    padding: 15px 10px 15px 20px;
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: 600;
+    color: #141414;
+    background: #EFF7F6;
+}
+
+.sidebar_collapse_button a {
+padding-right: 90px;
+}
+
+.sidebar_collapse_button img {
+    width:22px;
+}
+
+.sidebar_collapse_button span {
+    margin-left:6px;
+    overflow-wrap: break-word;
+    tab-size: 4;
+    line-height: var(--bs-body-line-height);
+    font-family: 'AkzidenzGroteskPro', sans-serif;
+    direction: ltr;
+    list-style: none;
+    text-shadow: none !important;
+    font-size: 14px;
+    font-weight: 600;
+    color: #141414;
+    background-repeat: no-repeat;
+    box-sizing: border-box;
+}
+
+
+.sidebar_collapse_button > a :hover {
+    background: #e6e6e6;
+
+}
+
+
+.form-body-new{
+    -webkit-text-size-adjust: 100%;
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+    line-height: 1.428571429;
+    font-family: 'AkzidenzGroteskPro', sans-serif;
+    font-size: 16px;
+    direction: ltr;
+    color: #222222;
+    box-sizing: border-box;
+    margin-right: -15px;
+    margin-left: -15px;
+}

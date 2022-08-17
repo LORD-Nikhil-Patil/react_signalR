@@ -1,0 +1,195 @@
+
+
+.master_nav{
+    -webkit-text-size-adjust: 100%;
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+    line-height: 1.428571429;
+    font-family: 'AkzidenzGroteskPro', sans-serif;
+    font-size: 16px;
+    direction: ltr;
+    color: #222222;
+    box-sizing: border-box;
+    position: fixed;
+    right: 0;
+    left: 0;
+    border-radius: 0;
+    top: 0;
+    z-index: 1030;
+    width: 100%;
+    border: 0px;
+    padding: 0px;
+    box-shadow: none;
+    min-height: 80px;
+    filter: none;
+    background-image: none;
+    background-color: #58bd81;
+    max-width: 100% !important;
+  
+}
+
+.header-inner{
+    -webkit-text-size-adjust: 100%;
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+    line-height: 1.428571429;
+    font-family: 'AkzidenzGroteskPro', sans-serif;
+    font-size: 16px;
+    direction: ltr;
+    color: #222222;
+    box-sizing: border-box;
+
+}
+
+
+.navbar-brand{    -webkit-text-size-adjust: 100%;
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+    font-family: 'AkzidenzGroteskPro', sans-serif;
+    direction: ltr;
+    box-sizing: border-box;
+    text-decoration: none;
+    text-shadow: none !important;
+    outline: 0;
+    float: left;
+    font-size: 18px;
+    line-height: 20px;
+    color: #999;
+    display: inline-block;
+    margin-right: 0;
+    max-width: 50%;
+    width: 215px;
+    background-color: #40b36f !important;
+    padding: 20px 0 !important;}
+
+.navbar-toggle{
+    -webkit-text-size-adjust: 100%;
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+    line-height: 1.428571429;
+    font-family: 'AkzidenzGroteskPro', sans-serif;
+    font-size: 16px;
+    direction: ltr;
+    box-sizing: border-box;
+    text-decoration: none;
+    text-shadow: none !important;
+    outline: 0;
+    position: relative;
+    float: right;
+    background-color: transparent;
+    border-radius: 4px;
+    display: none;
+    margin: 0 10px 0 0;
+    color: #999ba2;
+    border: 0;
+    padding: 25px 5px 25px 0;
+}
+
+
+.dropdown_actions{
+    -webkit-text-size-adjust: 100%;
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+    line-height: 1.428571429;
+    font-family: 'AkzidenzGroteskPro', sans-serif;
+    font-size: 16px;
+    direction: ltr;
+    color: #222222;
+    box-sizing: border-box;
+    padding-left: 0;
+    list-style: none;
+    margin: 0;
+    float: right!important;
+    height: 70px;
+    display: block;
+    margin-right: 20px;
+}
+
+.dropdown_change_language{
+    -webkit-text-size-adjust: 100%;
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+    line-height: 1.428571429;
+    font-family: 'AkzidenzGroteskPro', sans-serif;
+    font-size: 16px;
+    direction: ltr;
+    color: #222222;
+    list-style: none;
+    box-sizing: border-box;
+    position: relative;
+    display: block;
+    float: left;
+    padding: 0px !important;
+    margin: 0 !important;
+}
+
+.toggle_dropdown{
+    -webkit-text-size-adjust: 100%;
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+    font-family: 'AkzidenzGroteskPro', sans-serif;
+    font-size: 16px;
+    direction: ltr;
+    list-style: none;
+    box-sizing: border-box;
+    text-decoration: none;
+    text-shadow: none !important;
+    outline: 0;
+    position: relative;
+    display: block;
+    line-height: 20px;
+    color: #999;
+    margin: 0px;
+    padding: 26px 5px !important;
+
+}
+
+
+
+
+.nav_menu_dropdown{
+    -webkit-text-size-adjust: 100%;
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+    line-height: 1.428571429;
+    font-family: 'AkzidenzGroteskPro', sans-serif;
+    font-size: 16px;
+    direction: ltr;
+    color: #222222;
+    list-style: none;
+    box-sizing: border-box;
+    position: relative;
+    display: block;
+    float: left;
+    margin: 0px !important;
+    padding: 0px !important;
+}
+
+.menu_dropdown_toggle{
+    -webkit-text-size-adjust: 100%;
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+    font-family: 'AkzidenzGroteskPro', sans-serif;
+    font-size: 16px;
+    direction: ltr;
+    list-style: none;
+    box-sizing: border-box;
+    text-decoration: none;
+    text-shadow: none !important;
+    outline: 0;
+    position: relative;
+    display: block;
+    line-height: 20px;
+    color: #999;
+    padding: 25px 5px !important;
+    margin-right: 7px;
+}
+
+.img-responsive-logo{
+        -webkit-text-size-adjust: 100%;
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+    font-family: 'AkzidenzGroteskPro', sans-serif;
+    direction: ltr;
+    text-shadow: none !important;
+    font-size: 18px;
+    line-height: 20px;
+    color: #999;
+    box-sizing: border-box;
+    border: 0;
+    vertical-align: middle;
+    display: block;
+    max-width: 100%;
+    margin-left: 20px;
+    height: 40px !important;
+}
